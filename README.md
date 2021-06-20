@@ -2,12 +2,12 @@
 
 
 ## Technologies Used
-> Matplotlib
-> Numpy
-> Keras
-> Sklearn
-> Python
-> Jupyter Notebook
+* Matplotlib
+* Numpy
+* Keras
+* Sklearn
+* Python
+* Jupyter Notebook
 
 ## Known Bugs.
 {There are no known bugs}
